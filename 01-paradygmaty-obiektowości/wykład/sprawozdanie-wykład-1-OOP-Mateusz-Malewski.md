@@ -13,7 +13,6 @@ Do zrealizowania były następujące zadania:
   - Python
 
 ## VI. Realizacja zadania
-<br>
 
 #### 1. Kod Javy (lub Pythona)
 W zadaniu wykorzystano moduł 'random' do losowania filarów. Każdy filar jest elementem listy 'Filary'. 
@@ -44,5 +43,6 @@ print("Losowo:", rand)
 ```
 
 #### 2. Zrzuty ekranu pokazujące wynik działania aplikacji/skryptu:  
-![Pierwszy Przykład](../images/img.png) <br>
-![Drugi Przykład](../images/img_1.png)
+![Pierwszy Przykład](../wykład/images/img.png) <br>
+Drugi screen żeby pokazać losowość:
+![Drugi Przykład](../wykład/images/img_1.png)
