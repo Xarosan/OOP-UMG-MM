@@ -2,7 +2,7 @@
 [Markdown](https://www.markdownguide.org)
 <br>
 
-#Pythonowy Cheat Sheet z innych zajęć
+# Pythonowy Cheat Sheet z innych zajęć
 
 ### Tworzenie nowego projektu
 ```
