@@ -43,6 +43,6 @@ print("Losowo:", rand)
 ```
 
 #### 2. Zrzuty ekranu pokazujące wynik działania aplikacji/skryptu:  
-![Pierwszy Przykład](../images/img.png) <br>
+![Pierwszy Przykład](../img.png) <br>
 Drugi screen żeby pokazać losowość:
-![Drugi Przykład](../images/img_1.png)
+![Drugi Przykład](../img_1.png)
