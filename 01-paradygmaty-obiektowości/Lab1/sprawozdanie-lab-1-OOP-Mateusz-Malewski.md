@@ -51,7 +51,7 @@ public class Zadanie1_Malewski {
 ```
 
 ### 2. Zrzuty ekranu pokazujące wynik działania aplikacji/skryptu:  
-![dowolny tekst alterntywny](../Lab152972/img.png)
+![dowolny tekst alterntywny](../Lab1/img.png)
 
 <br>
 
@@ -109,7 +109,7 @@ public class Zadanie2_Malewski {
 ```
 
 ### 2. Zrzuty ekranu pokazujące wynik działania aplikacji/skryptu:
-![dowolny tekst alterntywny](../Lab152972/img_1.png)
+![dowolny tekst alterntywny](../Lab1/img_1.png)
 
 <br>
 
@@ -137,7 +137,7 @@ public class Zadanie3_Malewski {
 ```
 
 ### 2. Zrzuty ekranu pokazujące wynik działania aplikacji/skryptu:
-![dowolny tekst alterntywny](../Lab152972/img_2.png)
+![dowolny tekst alterntywny](../Lab1/img_2.png)
 
 
 <br>
@@ -183,29 +183,8 @@ public class Zadanie4_Malewski {
 ```
 
 ### 2. Zrzuty ekranu pokazujące wynik działania aplikacji/skryptu:
-![dowolny tekst alterntywny](../Lab152972/img_3.png)
+![dowolny tekst alterntywny](../Lab1/img_3.png)
 
 
 <br>
 
-## III. Dodatkowe informacje o zadaniu
-Można tu wpisać informacje o elementach, które nie zostały wymienione we wcześniejszych punktach.  Mozna też pominąć ten punkt, eśli nie ma potrzeby jeg użycia.  
-
-#### 1. Tabele w Markdownie
-
-| Syntax        | Description     |
-|:-------------:|:---------------:|
-|    Header     |      Title      |
-|   Paragraph   |      Text       |
-<br>
-
-#### 2. Linki
-  - do stron: What is a [markup language](https://www.semrush.com/blog/markup-language/)?
-  - do innych sekcji w dokumencie: 
-      - w miejscu, do którego chcemy się przenieść tworzymy znacznik `a` z atrybutem `id`, czyli np. `<a id="start"></a>`,  
-      - tworzymy link do ww. znacznika za pomocą składni `[tekst linku](#id-w-znaczniku-a)`, w naszym przypadku może to być np. [Link do początku dokumentacji](#start).  
-<br>
-  
-#### 3. Inne
-  - wpisujemy informacje dotyczące zadania, które uważamy za istotne,  
-  - ...
